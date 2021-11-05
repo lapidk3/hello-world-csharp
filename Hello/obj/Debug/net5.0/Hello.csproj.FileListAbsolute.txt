@@ -1,0 +1,15 @@
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/Hello.deps.json
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/Hello.runtimeconfig.json
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/Hello.runtimeconfig.dev.json
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/Hello.dll
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/ref/Hello.dll
+/Users/kennethlapid/hello-world-csharp/Hello/bin/Debug/net5.0/Hello.pdb
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.csprojAssemblyReference.cache
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.AssemblyInfoInputs.cache
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.AssemblyInfo.cs
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.csproj.CoreCompileInputs.cache
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.dll
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/ref/Hello.dll
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.pdb
+/Users/kennethlapid/hello-world-csharp/Hello/obj/Debug/net5.0/Hello.genruntimeconfig.cache
